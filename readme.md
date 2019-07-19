@@ -1,6 +1,5 @@
 ## MAC多元链简介
 
-![MAC](http://www.macblock.io/skins/pc/img/banner_title.png "png")
 <a href="http://www.macblock.io"><img src="http://www.macblock.io/skins/pc/img/banner_title.png"></a>
 
 Multiple Atomic Chain，简称MAC，全球第一公链，以超千万级TPS为特点。是支持多个行业领域去中心化的场景应用商业开发的底层生态平台。
