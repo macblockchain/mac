@@ -1,5 +1,3 @@
-## 区块链入门课程
-
 ## MAC多元链简介
 
 ![MAC](http://www.macblock.io/skins/pc/img/banner_title.png "png")
