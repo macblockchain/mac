@@ -29,4 +29,4 @@ MAC¶àÔ­Á´¼¼ÊõÍÅ¶ÓÓë¶à¸ö¸ßÐ£ºÍÊ¡¼¶³¬¼¶¼ÆËãÖÐÐÄºÏ×÷£¬¶ÔÖ÷Íø½øÐÐÖØÐÂÅÅÁÐºÍ²âÊÔ£¬ÊµÑ
 
 8.[ËÝÔ´¼ÇÕË](8.ËÝÔ´¼ÇÕË.md)
 
-¸ü¶à½Ó¿Ú¹¤¾ßÕýÔÚÂ½Ðø¿ª·ÅÖÐ£¬¸ü¶àÏêÏ¸¹¤¾ßÇë·ÃÎÊ[¹Ù·½¿ª·¢ÕßÖÐÐÄ](http://macwt.sdgl.com.cn/dmember/v2.html)
+¸ü¶à½Ó¿Ú¹¤¾ßÕýÔÚÂ½Ðø¿ª·ÅÖÐ£¬ÏêÏ¸¹¤¾ßÇë·ÃÎÊ[¹Ù·½¿ª·¢ÕßÖÐÐÄ](http://macwt.sdgl.com.cn/dmember/v2.html)
